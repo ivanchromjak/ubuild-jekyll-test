@@ -1,4 +1,10 @@
 ---
 label: style-settings
 hide_body: true
-fields: []
+fields:
+- name: muted_color
+  type: color
+  label: Muted Color
+  config:
+    required: false
+    color_format: Hex
