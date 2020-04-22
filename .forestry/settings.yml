@@ -7,7 +7,6 @@ sections:
 - type: document
   path: data/style.yml
   label: Style
-  match: "**/*"
 - type: document
   path: FORESTRY-README.md
   label: Welcome - First Steps
