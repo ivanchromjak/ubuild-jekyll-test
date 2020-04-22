@@ -22,6 +22,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
+  - link: "/sdcdscsdc"
+    link_text: scscs
   - link: "#features"
     link_text: Features
   - link: "#pricing"
