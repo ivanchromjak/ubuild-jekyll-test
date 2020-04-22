@@ -47,3 +47,11 @@ fields:
   - type: text
     name: button_text
     label: Button text
+- name: rgba_color
+  type: color
+  label: RGBA color
+  config:
+    required: false
+    color_format: RGB
+  hidden: false
+  default: rgb(106, 44, 44)
