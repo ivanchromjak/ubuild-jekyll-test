@@ -16,6 +16,8 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/drone-photo.jpeg"
+  rgba_color: rgb(0, 0, 0)
+  dfgdg: '0.3'
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
@@ -93,6 +95,8 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+  rgba_color: ''
+  dfgdg: 
 
 ---
 foo bar
