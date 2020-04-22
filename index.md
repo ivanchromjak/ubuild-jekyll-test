@@ -78,6 +78,21 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2018/06/21/drone-photo.jpeg"
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: ''
+  image:
+    image: ''
+    alt_text: ''
+  headline: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 
 ---
 foo bar
