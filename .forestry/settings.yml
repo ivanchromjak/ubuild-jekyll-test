@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: data/style.yml
+  path: _data/style.yml
   label: Style
 - type: document
   path: FORESTRY-README.md
