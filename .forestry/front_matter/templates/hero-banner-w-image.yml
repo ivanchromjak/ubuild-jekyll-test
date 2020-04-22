@@ -55,3 +55,13 @@ fields:
     color_format: RGB
   hidden: false
   default: rgb(106, 44, 44)
+- name: dfgdg
+  type: number
+  label: dfgdg
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 0
+    max: 1
+    step: 0.1
