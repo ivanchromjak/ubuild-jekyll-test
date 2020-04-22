@@ -18,6 +18,7 @@ page_sections:
   background_image: "/uploads/2018/06/21/drone-photo.jpeg"
   rgba_color: rgb(0, 0, 0)
   dfgdg: '0.3'
+  primary_color: "#DE2727"
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
@@ -97,6 +98,7 @@ page_sections:
     button_text: ''
   rgba_color: ''
   dfgdg: 
+  primary_color: ''
 
 ---
 foo bar
